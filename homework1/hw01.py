@@ -1,4 +1,4 @@
-import random
+﻿import random
 
 
 def print_intro():
@@ -175,6 +175,11 @@ def Hammutabi():
     else:
         print "You are an bad ruler!"
 
+if __name__=="__main__":
+    Hammutabi()
 
 
-Hammutabi()
+
+
+
+
