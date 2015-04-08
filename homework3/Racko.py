@@ -80,7 +80,7 @@ def computer_play(hand):
     if len(discard) != 0:
         discard_index = 9 - (discard[-1] - 1) / 6
 
-        if (hand[discard_index] - 1) / 6 != 9-discard_index:
+        if (hand[discard_index] - 1) / 6 != 9 - discard_index:
             # print 'discard_draw'
             # print discard_index
             card_draw = draw_card_from_discard()
@@ -113,6 +113,47 @@ def computer_play(hand):
     return hand
 
 
+def user_play(hand):
+    global deck
+    global discard
+
+    print_top_to_bottom(hand)
+
+    if len(discard) != 0:
+        discard_top = discard[-1]
+        print 'the card on the top of discard pile is', discard_top
+        choose_discard = raw_input(
+            'input y to take it or n to draw from deck\n')
+        if choose_discard == 'y':
+            new_card = draw_card_from_discard()
+        else:
+            new_card = deal_card()
+    else:
+        print('The discard pile is empty, you will draw card from deck\n')
+        new_card = deal_card()
+
+    print 'The card you get is', new_card
+
+    card_to_be_replaced = input(
+        '\nInput which card you want to replace it with \ninput 0 to discard this card\n')
+
+    while not card_in_hand(card_to_be_replaced, hand)\
+            and card_to_be_replaced != 0:
+        card_to_be_replaced = input(
+            'card is not in your hand, please choose another one\n')
+
+    if card_to_be_replaced == 0:
+        add_card_to_discard(new_card)
+    else:
+        hand = find_and_replace(
+            new_card, card_to_be_replaced, hand)
+
+    if len(deck) == 0:
+        shuffle()
+
+    return hand
+
+
 def main():
     global deck
     global discard
@@ -132,40 +173,7 @@ def main():
             if check_racko(computer_hand):
                 break
 
-        print_top_to_bottom(human_hand)
-        if len(discard) != 0:
-            discard_top = discard[-1]
-            print 'the card on the top of discard pile is', discard_top
-            choose_discard = raw_input(
-                'input y to take it or n to draw from deck\n')
-
-            if choose_discard == 'y':
-                new_card = draw_card_from_discard
-            else:
-                new_card = deal_card()
-        else:
-            print('The discard pile is empty, you will draw card from deck\n')
-            new_card = deal_card()
-
-        print 'The card you get is', new_card
-
-        card_to_be_replaced = input(
-            '\nInput which card you want to replace it with \ninput 0 to discard this card\n')
-
-        while not card_in_hand(card_to_be_replaced, human_hand)\
-                and card_to_be_replaced != 0:
-            card_to_be_replaced = input(
-                'card is not in your hand, please choose another one\n')
-
-        if card_to_be_replaced == 0:
-            add_card_to_discard(new_card)
-        else:
-            human_hand = find_and_replace(
-                new_card, card_to_be_replaced, human_hand)
-
-        if len(deck) == 0:
-            shuffle()
-
+        human_hand = user_play(human_hand)
         if check_racko(human_hand):
             break
 

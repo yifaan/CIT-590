@@ -1,0 +1,1022 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"write	function"
+			],
+			[
+				"fre",
+				"frequency_dictionary	param"
+			],
+			[
+				"meam",
+				"meamer"
+			],
+			[
+				"csv",
+				"csvfile"
+			],
+			[
+				"fla",
+				"flattenlst	statement"
+			],
+			[
+				"bin",
+				"binary_search	function"
+			],
+			[
+				"che",
+				"check_high_score	function"
+			],
+			[
+				"wrie",
+				"writelines	function"
+			],
+			[
+				"readline",
+				"readlines	function"
+			],
+			[
+				"ass",
+				"assertEquals	statement"
+			],
+			[
+				"a",
+				"assertEquals	statement"
+			],
+			[
+				"ro",
+				"row1_score	statement"
+			],
+			[
+				"get",
+				"get_tot_score	function"
+			],
+			[
+				"ge",
+				"get_tot_score"
+			],
+			[
+				"tot",
+				"tot_score	statement"
+			],
+			[
+				"co",
+				"col5_score	statement"
+			],
+			[
+				"col1",
+				"col1_score	statement"
+			],
+			[
+				"rw",
+				"row1"
+			],
+			[
+				"sum",
+				"sum_of_list	statement"
+			],
+			[
+				"su",
+				"sum_of_list	statement"
+			],
+			[
+				"get_s",
+				"get_sum	function"
+			],
+			[
+				"ger",
+				"get_score	function"
+			],
+			[
+				"check",
+				"check_discard_full	function"
+			],
+			[
+				"ta",
+				"Table	statement"
+			],
+			[
+				"user",
+				"user_input	statement"
+			],
+			[
+				"use",
+				"user_input	statement"
+			],
+			[
+				"ch",
+				"check_user_input	function"
+			],
+			[
+				"ask",
+				"ask_user_input"
+			],
+			[
+				"dis",
+				"discard_number	statement"
+			],
+			[
+				"as",
+				"ask_user_input	function"
+			],
+			[
+				"val",
+				"ValueError	class"
+			],
+			[
+				"deci",
+				"decide_whether_discard"
+			],
+			[
+				"tab",
+				"table_number"
+			],
+			[
+				"decide",
+				"decide_whether_discard	function"
+			],
+			[
+				"asse",
+				"assertEqual"
+			],
+			[
+				"dea",
+				"dealcard	statement"
+			],
+			[
+				"put",
+				"put_card_to_table	function"
+			],
+			[
+				"row",
+				"row_num	statement"
+			],
+			[
+				"assrt",
+				"assertTrue	function"
+			],
+			[
+				"ava",
+				"availabitity"
+			],
+			[
+				"dia",
+				"discard_number	statement"
+			],
+			[
+				"di",
+				"discardList	statement"
+			],
+			[
+				"ec",
+				"except	keyword"
+			],
+			[
+				"Dis",
+				"Discard_card	function"
+			],
+			[
+				"excep",
+				"except	keyword"
+			],
+			[
+				"de",
+				"dealcard	statement"
+			],
+			[
+				"deal",
+				"dealcard"
+			],
+			[
+				"disc",
+				"discardList"
+			],
+			[
+				"deck",
+				"Deck_1	statement"
+			],
+			[
+				"De",
+				"Deck_1"
+			],
+			[
+				"D",
+				"Deck_1	statement"
+			],
+			[
+				"dec",
+				"Deck_1	statement"
+			],
+			[
+				"Ca",
+				"Cards	module"
+			],
+			[
+				"ca",
+				"Card	class"
+			],
+			[
+				"cont",
+				"Contact	class"
+			],
+			[
+				"cou",
+				"Courseshtml	function"
+			],
+			[
+				"edu",
+				"Eduhtml	function"
+			],
+			[
+				"ed",
+				"GetEducation"
+			],
+			[
+				"pro",
+				"Projecthtml	function"
+			],
+			[
+				"Pro",
+				"Projects"
+			],
+			[
+				"pi",
+				"punctuation"
+			],
+			[
+				"course",
+				"coursepunc	forflow"
+			],
+			[
+				"p",
+				"phone	statement"
+			],
+			[
+				"con",
+				"Contact	class"
+			],
+			[
+				"last",
+				"lastfour"
+			],
+			[
+				"N",
+				"NameError	class"
+			],
+			[
+				"nam",
+				"NameError	class"
+			],
+			[
+				"uni",
+				"unittest	module"
+			],
+			[
+				"re",
+				"readline	function"
+			],
+			[
+				"acto",
+				"actor_DB	statement"
+			],
+			[
+				"mov",
+				"movie1	statement"
+			],
+			[
+				"sel",
+				"select_where_movie_is	function"
+			],
+			[
+				"num",
+				"number_of_movie"
+			],
+			[
+				"ac",
+				"actor_DB	statement"
+			],
+			[
+				"rat",
+				"ratings_DB	statement"
+			],
+			[
+				"compa",
+				"compare_input	statement"
+			],
+			[
+				"rs",
+				"rstrip	function"
+			],
+			[
+				"movi",
+				"movieDb	statement"
+			],
+			[
+				"se",
+				"select_where_movie_is	function"
+			],
+			[
+				"movie",
+				"moviedb	param"
+			],
+			[
+				"ls",
+				"lst2	statement"
+			],
+			[
+				"act",
+				"actorName	param"
+			],
+			[
+				"sl",
+				"self	param"
+			],
+			[
+				"selec",
+				"select_where_movie_is	function"
+			],
+			[
+				"is",
+				"is_critic	param"
+			],
+			[
+				"int",
+				"intersection	function"
+			],
+			[
+				"mo",
+				"movie_Db	param"
+			],
+			[
+				"r",
+				"ratingDb	statement"
+			],
+			[
+				"ratin",
+				"ratings_Db	param"
+			],
+			[
+				"test",
+				"TestCase	class"
+			],
+			[
+				"asser",
+				"assertEqual	function"
+			],
+			[
+				"Ts",
+				"TestCase	class"
+			],
+			[
+				"US",
+				"user_play	function"
+			],
+			[
+				"card",
+				"card_draw	statement"
+			],
+			[
+				"drw",
+				"draw_card_from_discard	function"
+			],
+			[
+				"comp",
+				"computer_hand	statement"
+			],
+			[
+				"ne",
+				"new_card	statement"
+			],
+			[
+				"caer",
+				"card_to_be_replaced	statement"
+			],
+			[
+				"us",
+				"user_hand"
+			],
+			[
+				"fin",
+				"find_and_replace"
+			],
+			[
+				"d",
+				"does_user_begin"
+			],
+			[
+				"in",
+				"index	function"
+			],
+			[
+				"pri",
+				"print_top_to_bottom	function"
+			],
+			[
+				"computer",
+				"computer_hand"
+			],
+			[
+				"com",
+				"computer_hand	statement"
+			],
+			[
+				"s",
+				"shuffle	statement"
+			],
+			[
+				"hex",
+				"hexagonal	statement"
+			],
+			[
+				"Ham",
+				"Hammurabi"
+			],
+			[
+				"ham",
+				"Hammurabi"
+			],
+			[
+				"bus",
+				"bushels_in_storage	statement"
+			],
+			[
+				"cost",
+				"cost_per_acre	statement"
+			],
+			[
+				"pric",
+				"priceOFLand	function"
+			],
+			[
+				"lands",
+				"landsell	statement"
+			],
+			[
+				"land",
+				"landbought	statement"
+			],
+			[
+				"gra",
+				"grainInStorage	param"
+			],
+			[
+				"pop",
+				"population"
+			],
+			[
+				"po",
+				"population"
+			],
+			[
+				"lan",
+				"land_to_plant	statement"
+			],
+			[
+				"bushe",
+				"bushels"
+			],
+			[
+				"bush",
+				"bushels	param"
+			],
+			[
+				"acres_",
+				"acres_to_sell	statement"
+			],
+			[
+				"bushels_",
+				"bushels_per_acre"
+			],
+			[
+				"pla",
+				"plague_deaths	statement"
+			],
+			[
+				"cos",
+				"cost_per_acre	statement"
+			],
+			[
+				"hae",
+				"harvest"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "HW7.py",
+			"settings":
+			{
+				"buffer_size": 1320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAnaconda:\n--------\n\n  Changes in 1.4.4\n  ================\n  \n  ## Fixes\n  * Fix for issue #287\n  * Fix for issue #289\n  \n  For more detailed information about those changes run git v1.4.3..v1.4.4 on git repository\n  ",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"ip",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"ipython",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"IPY",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"eun",
+				"Legit: Unpublish"
+			],
+			[
+				"ipy",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"ipyt",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"ryun",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"ru",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"ipyth",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"r",
+				"Rot13 Selection"
+			],
+			[
+				"lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"lintin",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"git",
+				"Git: Quick Add"
+			],
+			[
+				"lint",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"python",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"aoto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"pytho",
+				"SublimeREPL: Python"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"sublimer",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"sump",
+				"SublimeREPL: Python"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"themt",
+				"Themr: List themes"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yifanyang/Documents/CIT-590/homework7"
+	],
+	"file_history":
+	[
+		"/Users/yifanyang/Documents/CIT-590/homework7/a.txt",
+		"/Users/yifanyang/Documents/CIT-590/homework7/STUDENT.csv",
+		"/Users/yifanyang/Documents/CIT-590/homework7/HW7.py",
+		"/Users/yifanyang/Documents/CIT-590/homework7/*REPL* [python].py",
+		"/Users/yifanyang/Documents/sameAB.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/SolBlackjack.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/highScore.txt",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/SolBlackjackTest.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/test.py",
+		"/Users/yifanyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/Cards.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/CardsTest.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/test_2.py",
+		"/Users/yifanyang/Documents/CIT-590/untitled folder/Address_Book.py",
+		"/Address_Book",
+		"/Users/yifanyang/Documents/CIT-590/homework5/makeWebsite_tests.py",
+		"/Users/yifanyang/Documents/CIT-590/homework5/test.py",
+		"/Users/yifanyang/Documents/CIT-590/homework5/Address_book.py",
+		"/Users/yifanyang/Documents/CIT-590/homework5/new_resume.txt",
+		"/Users/yifanyang/Documents/CIT-590/homework4/movie_trivia.py",
+		"/Users/yifanyang/Documents/CIT-590/homework4/moviescores.csv",
+		"/Users/yifanyang/Documents/CIT-590/homework4/movie_trivia_tests.py",
+		"/Users/yifanyang/Documents/CIT-590/homework4/my_test_movies.txt",
+		"/Users/yifanyang/Documents/CIT-590/homework4/movies_2015.py",
+		"/Users/yifanyang/Documents/CIT-590/homework4/unit_test.py",
+		"/Users/yifanyang/Documents/CIT-590/homework4/my_moviescores.csv",
+		"/Users/yifanyang/Documents/CIT-590/homework4/movies.txt",
+		"/Users/yifanyang/Documents/CIT-590/homework4/mt_test_movies.txt",
+		"/Users/yifanyang/Documents/CIT-590/homework4/movie trivia.py",
+		"/Users/yifanyang/Documents/CIT-590/homework3/Racko.py",
+		"/Users/yifanyang/Documents/CIT-590/homework3/test_Racho.py",
+		"/Users/yifanyang/Documents/CIT-590/homework2/hw02.py",
+		"/Users/yifanyang/Documents/CIT-590/homework1/hw01.py",
+		"/Users/yifanyang/Library/Mobile Documents/com~apple~CloudDocs/UPENN/MEAM/Advanced robotics/hw/hw1",
+		"/Users/yifanyang/Downloads/2015_hw1_template-2.tex",
+		"/Users/yifanyang/Documents/CIT-590/index.py",
+		"/Users/yifanyang/Documents/CIT-590/homework1/hw1.py",
+		"/Users/yifanyang/Documents/CIT-590/homework1/hw 1",
+		"/Users/yifanyang/Documents/CIT-590/homework1/xin.py",
+		"/Users/yifanyang/Documents/CIT-590/README.md",
+		"/Users/yifanyang/Documents/coding/cit590/coke machine.py",
+		"/Users/yifanyang/Documents/coding/cit590/vowelCount.py",
+		"/Users/yifanyang/Documents/coding/cit590/abc.py",
+		"/Users/yifanyang/Documents/coding/cit590/Untitled.py",
+		"/Users/yifanyang/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/yifanyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yifanyang/Library/Application Support/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"’",
+			"(x)",
+			"’",
+			"’a’",
+			"’",
+			" ",
+			"’",
+			"’Marilyn",
+			"col5_score",
+			"col4_score",
+			"col3_score",
+			"col2_score",
+			"col1_score",
+			"row4_score",
+			"col2_score",
+			"row3_score",
+			"col1_score",
+			"row2_score",
+			"row4_score",
+			" ",
+			"row4_score",
+			"row1_score",
+			"2",
+			"col2_score",
+			"0",
+			"2",
+			"1",
+			"results",
+			"Discard",
+			"discard",
+			"Discard",
+			"discard",
+			"Discard",
+			"85",
+			"list",
+			"rear",
+			"reae",
+			"the odd",
+			"The Godfather",
+			"print",
+			"Meryl Streep",
+			"craz",
+			"crazy stup",
+			"crazy stu",
+			"crazy",
+			"brad",
+			"or",
+			".split()",
+			"listtargeted_rating",
+			"targeted_rating",
+			"movie",
+			"where",
+			"m",
+			"]),",
+			"actor",
+			"human_hand",
+			"pop",
+			"card_to_be_replaced",
+			"card_to_to_replaced",
+			"new_card",
+			"user_hand",
+			"print_top_to_bottomuser_hand",
+			"function",
+			"random",
+			"lst",
+			"bushels_per_acre",
+			"harvest",
+			"population",
+			"immigrants",
+			"starved",
+			"()",
+			"a",
+			"fib",
+			"is",
+			"c",
+			"C",
+			"c",
+			"elif",
+			"if",
+			"hot"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"!!!\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "HW7.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								635
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 142.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "HW7.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"moviet",
+				"movie_trivia.py"
+			],
+			[
+				"ab",
+				"abc.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Hammutabi"
+			]
+		],
+		"width": 360.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
